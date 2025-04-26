@@ -1,5 +1,5 @@
 [router]
-R1
+192.168.56.113
 
 [router:vars]
 ansible_user=admin
